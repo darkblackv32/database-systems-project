@@ -1,8 +1,8 @@
-# database-systems-project
+# Introduction to Database Systems Project
 
 ## **Introduction**
 
-This project was developed as part of the Database Systems course at UTEC, aimed at designing and implementing a robust database system for managing claims in healthcare centers. The project focuses on improving information handling and decision-making processes.
+This project was developed as part of the Introduction to Database Systems course at UTEC, aimed at designing and implementing a robust database system for managing claims in healthcare centers. The project focuses on improving information handling and decision-making processes.
 
 ## **Project Objectives**
 
