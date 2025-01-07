@@ -1,4 +1,4 @@
--- Adding constraints
+-- adding constraints
 
 ALTER TABLE Person ADD CONSTRAINT person_dni_pk PRIMARY KEY (dni);
 ALTER TABLE Person ADD CONSTRAINT chk_validate_dni CHECK (LENGTH(dni) = 8);
