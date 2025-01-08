@@ -1,5 +1,8 @@
 # Introduction to Database Systems Project
 
+![bd1](https://github.com/user-attachments/assets/078e4c13-7b3f-4e04-9e54-a9ddf211be3e)
+
+
 ## **Introduction**
 
 This project was developed as part of the Introduction to Database Systems course at UTEC, aimed at designing and implementing a robust database system for managing claims in healthcare centers. The project focuses on improving information handling and decision-making processes.
